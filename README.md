@@ -1,2 +1,2 @@
 # cp
-alterar =teste=
+alterar =teste=1
